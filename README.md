@@ -1,4 +1,4 @@
-<h1 align="center"> COPY OF https://github.com/abhagsain </h1>
+<h1 align="center"> COPY OF https://github.com/abhagsain/ai-cli </h1>
 
 
 <p align="center">
